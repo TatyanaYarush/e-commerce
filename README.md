@@ -65,21 +65,27 @@ npm i dotenv
 
 env           |  e-commerce database
 :-------------------------:|:-------------------------:
-![](images\env.JPG)  |  ![](images\ecommerce_db.JPG)
+![env](https://user-images.githubusercontent.com/70031550/119187516-74cd7b80-ba47-11eb-92df-c289a862f0b2.JPG)  | ![ecommerce_db](https://user-images.githubusercontent.com/70031550/119187482-6a12e680-ba47-11eb-9852-411307da5053.JPG)
+       
+       
+## Run Server
+![run server](https://user-images.githubusercontent.com/70031550/119187603-8a42a580-ba47-11eb-89ae-ba6487326c06.gif)
        
 
 ## Seed Database
-
+![demo_seed database](https://user-images.githubusercontent.com/70031550/119187637-99295800-ba47-11eb-9f0e-fff0877091d0.gif)
 
 
 ## Walkthrough videos
 
 Showcasing of Category application running in Insomnia:
+![demo_category](https://user-images.githubusercontent.com/70031550/119187659-a2b2c000-ba47-11eb-93c5-2c2017411283.gif)
 
 Showcasing of Tags application running in Insomnia:
+![demo_tags](https://user-images.githubusercontent.com/70031550/119187704-b100dc00-ba47-11eb-92b1-b2401883c07e.gif)
 
 Showcasing of Products application running in Insomnia:
-
+![demo_products](https://user-images.githubusercontent.com/70031550/119187739-beb66180-ba47-11eb-989f-e887b440daed.gif)
 
 ## Dependencies & Technologies
 
