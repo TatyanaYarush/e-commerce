@@ -81,12 +81,15 @@ env           |  e-commerce database
 
 Showcasing of Category application running in Insomnia:
 ![demo_category](https://user-images.githubusercontent.com/70031550/119187659-a2b2c000-ba47-11eb-93c5-2c2017411283.gif)
+ - YouTube Video: [DemoVideo](https://www.youtube.com/watch?v=2JIQkIHndI0)
 
 Showcasing of Tags application running in Insomnia:
 ![demo_tags](https://user-images.githubusercontent.com/70031550/119187704-b100dc00-ba47-11eb-92b1-b2401883c07e.gif)
+- YouTube Video: [DemoVideo](https://www.youtube.com/watch?v=aIvoHVuSWfo)
 
 Showcasing of Products application running in Insomnia:
 ![demo_products](https://user-images.githubusercontent.com/70031550/119187739-beb66180-ba47-11eb-989f-e887b440daed.gif)
+- YouTube Video: [DemoVideo](https://www.youtube.com/watch?v=PDAgyZh5Ch8&t=14s)
 
 ## Dependencies & Technologies
 
