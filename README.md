@@ -14,7 +14,8 @@ Object-Relational Mapping (ORM): E-Commerce Back End
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
-- [Create the db images](#create-the-db-images)
+- [Create db](#create-db)
+- [Run Server](#run-server)
 - [Seed Database](#seed-database)
 - [Walkthrough videos](#walkthrough-videos)
 - [Dependencies & Technologies](#Dependencies-&-technologies)
@@ -61,7 +62,7 @@ npm i dotenv
 
 ```
 
-## Create the db images:
+## Create db:
 
 env           |  e-commerce database
 :-------------------------:|:-------------------------:
