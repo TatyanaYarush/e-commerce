@@ -19,7 +19,7 @@ Object-Relational Mapping (ORM): E-Commerce Back End
 - [Seed Database](#seed-database)
 - [Walkthrough videos](#walkthrough-videos)
 - [Dependencies & Technologies](#Dependencies-&-technologies)
-- [Questions](#questions)
+- [Author](#raising_hand-author)
 
 
 ## Introduction
@@ -104,11 +104,14 @@ Showcasing of Products application running in Insomnia:
 </p>
 
 
- ## Questions
- For any additional information or questions find me at:
+## :raising_hand: Author 
+Written by Tatyana Yarushin student in full stack web development in the Coding Bootcamp course at Carleton University
+
+**I hope you found something interesting!** :scroll:
+
+ :question: For any additional information or questions find me at:
 
  - Email: [tatyana.yarushin@gmail.com](mailto:tatyana.yarushin@gmail.com)
  
  - Github: [TatyanaYarush](https://github.com/TatyanaYarush)
-
 
